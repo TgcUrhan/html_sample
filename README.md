@@ -1,2 +1,2 @@
 # html_sample
-There is example of hmtl.
+HTML öğrenmeye yeni başlayanların kullanabileceği çalışmalar içermektedir. Katkıda bulunmak isteyenlere açık projedir.
